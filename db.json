@@ -1,0 +1,23 @@
+{
+"event":{
+  {
+  "id":123,
+  "category":"animal welfare",
+  "title":"cat adoption day",
+  "description":"find your new friend at this event.",
+  "location":"Meow Town",
+  "date":"January 28,2022",
+  "time":"12:00",
+  "organizer":"kat laydee"},
+  {
+  "id":456,
+  "category":"food",
+  "title":"community gardening.",
+  "description":"join us as we tend to the community edible plants.",
+  "location":"flora city",
+  "date":"Mars 14,2022",
+  "time":"11:00",
+  "organizer":"carey wales"
+}
+}
+}
